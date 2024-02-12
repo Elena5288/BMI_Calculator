@@ -118,7 +118,7 @@ else:
         else:
             continue
 
-color_code=["#388638", "#266ef0", "#ff1a1a", "#e6ac00"]
+color_code=["#266ef0", "#388638", "#e6ac00", "#ff1a1a"]
 label_code=category_counts.keys()
 
 #Pie chart
